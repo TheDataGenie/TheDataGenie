@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 👩🏻‍💻 I’m a Business Analyst. I have been in the Analytics for the past 7 years and specialize in data analytics and visualization.<br> 👩🏻‍🏫 I’m currently learning Advanced Tableau, and Python.<br> 💬 Ask me about anything on SQL & Excel.<br>⌛In my spare time, I enjoy watching series and movies.
 
+## 👧🏻 Pronouns:
+She / Her
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tosd#1971) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soma-dey-663137168/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@deysoma94) 
